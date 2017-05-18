@@ -1,0 +1,13 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Node Modules #
+################
+node_modules
+npm-debug.log
+
+# Public Files #
+################
+public
